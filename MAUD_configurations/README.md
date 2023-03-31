@@ -1,3 +1,0 @@
-# Maud configurations
-
-Maud12 and Maud36 are regional NEMO configurations, developed with NEMO 4.0 (Revision 15648). Maud12 and Maud36 are set up in the region of Maud Rise in the Weddell Sea, with the domain covering 5.08°W to 19.42°E and 70.53°S to 61.53°S with a horizontal resolution of 1/12° adn 1/36° respectively. The vertical grid is using 50 vertical levels. The bathymetry is derived from GEBCO. The inital state for Temperature, Salinity and Sea Ice is extracted from GLORYS12. The lateral boundaries are forced by GLORYS12. As surface forcing JRA55-do version 1.5 is used. The configurations simulate the period  1.1.2007 to 31.12.2017.
