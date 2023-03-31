@@ -1,7 +1,8 @@
-# Variability and Remote COntrols of the Warm-Water Halo and Taylor Cap at Maud Rise
+# Variability and Remote Controls of the Warm-Water Halo and Taylor Cap at Maud Rise
 
+*Authors: Birte Gülk, Fabien Roquet, Alberto C. Naveira Garabato, Aditya Narayanan, Clément Rousset, Gurvan Madec 
 
-This repository presents the used model parameters used for the regional NEMO configuration MAUD12 and MAUD36, and how the output was processed to produce the data presented in the paper submitted to JGR Oceans
+This repository presents the used model parameters used for the regional NEMO configuration Maud12 and Maud36, and how the output was processed to produce the data presented in the paper submitted to JGR Oceans
 
 # Content
 - MAUD_configurations/
