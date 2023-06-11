@@ -72,9 +72,6 @@ if __name__ == '__main__':
         mask_ha_mod=xr.where((ds.gphit>-65)&(ds.glamt<5)&(ds.bathy_meter<5000),ds.mask_ha,0)
         ds['ha_mod']=mask_ha_mod
         
-        area=ds.e1t*ds.e2t
-        area=area.rename("area")
-        area=area.assign_attrs(long_name="area for T-grid cells")
         print('compute Halo')
         deptht=ds.e3t_1d.cumsum(dim='z_c')- 0.5*ds.e3t_1d.isel(z_c=0)
         deptht=deptht.rename("deptht")
