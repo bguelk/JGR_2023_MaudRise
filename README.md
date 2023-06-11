@@ -8,6 +8,6 @@ This repository presents the used model parameters used for the regional NEMO co
 - Maud_parameters  
   This folder contains the namelists used in Maud12 and Maud36 and a general description of the model setup. These namelist can be used to reproduce the model runs.
 - Analysis  
-  This folder provides the python scripts used to analyze the produced model output for Maud 12 and Maud36
+  This folder provides the python scripts used to analyze the produced model output for Maud12 and Maud36
 - Figures  
   Jupyter Notebooks to plot the figures 
