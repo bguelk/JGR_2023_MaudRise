@@ -2,7 +2,7 @@
 
 *Authors: Birte Gülk, Fabien Roquet, Alberto C. Naveira Garabato, Aditya Narayanan, Clément Rousset, Gurvan Madec 
 
-This repository presents the used model parameters used for the regional NEMO configuration Maud12 and Maud36, and how the output was processed to produce the data presented in the paper submitted to JGR:Oceans
+This repository presents the used model parameters used for the regional NEMO configuration Maud12 and Maud36, and how the output was analysed to produce the data presented in the paper.
 
 # Content
 - Maud_parameters  
