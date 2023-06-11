@@ -24,7 +24,7 @@
    jpl              =    10         !  number of ice  categories
    nlay_i           =    5          !  number of ice  layers
    nlay_s           =    3          !  number of snw  layers
-   cn_icerst_in     = "MAUD_02700000_restart_ice" ! suffix of ocean restart name (input)
+   ! cn_icerst_in     = "MAUD_02700000_restart_ice" ! suffix of ocean restart name (input)
    cn_icerst_out    = "restart_ice"   !  suffix of ice restart name (output)
    cn_icerst_indir  = "."             !  directory to read   input ice restarts
    cn_icerst_outdir = "."             !  directory to write output ice restarts
@@ -111,7 +111,7 @@ rn_cnd_s         =   0.5          !  thermal conductivity of the snow (0.31 W/m/
 &namini         !   Ice initialization
 !------------------------------------------------------------------------------
    ln_iceini        = .true.  !true         !  activate ice initialization (T) or not (F)
-   nn_iceini_file   = 2            !     0 = Initialise sea ice based on SSTs
+   nn_iceini_file   = 1            !     0 = Initialise sea ice based on SSTs
                                       !     1 = Initialise sea ice from single category netcdf file
                                       !     2 = Initialise sea ice from multi category restart file
 
