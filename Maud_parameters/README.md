@@ -5,6 +5,7 @@ dell Sea, with the domain covering 5°W to 19.5°E and 70.5°S to 61.5°S.
 
 - horizontal resolution: 1/12° (Maud12) and 1/36° (Maud36)
 - vertical levels: 50
+- grid: MErcator grid; same grid points as GLORYS12
 - bathymetry: GEBCO
 - inital state of temperature, salinity and sea ice: GLORYS12
 - lateral forcing: GLORYS12
